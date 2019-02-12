@@ -34,3 +34,7 @@ You can view your running application by clicking the "Show" link in the upper l
 To create a new asset, click on the "assets" directory in the front-end section; drag the file from you computer to the browser window.
 
 To use an asset, click on the "assets" directory in the front-end section; then, click the "Copy URL" button to get the asset's URL.
+
+## Demo
+
+https://glitch.com/edit/#!/necessary-dresser
