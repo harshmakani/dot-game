@@ -37,4 +37,5 @@ To use an asset, click on the "assets" directory in the front-end section; then,
 
 ## Demo
 
-https://glitch.com/edit/#!/necessary-dresser
+Code: https://glitch.com/edit/#!/necessary-dresser
+App: https://necessary-dresser.glitch.me
